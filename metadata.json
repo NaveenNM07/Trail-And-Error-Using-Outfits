@@ -1,0 +1,5 @@
+{
+  "name": "Trail And Error Using Outfit",
+  "description": "A high-fidelity virtual try-on application that seamlessly blends a chosen outfit onto a person's photo using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
